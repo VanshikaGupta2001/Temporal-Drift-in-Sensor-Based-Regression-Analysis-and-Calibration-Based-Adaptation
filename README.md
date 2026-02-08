@@ -10,7 +10,7 @@ The work focuses on understanding regression behavior under distribution shift r
 ## Dataset
 - **Source:** UCI Machine Learning Repository  
 - **Dataset Name:** Gas Sensor Array Drift Dataset at Different Concentrations  
-- **Link:** https://archive.ics.uci.edu/dataset/251/gas+sensor+array+drift+dataset+at+different+concentrations  
+- **Link:** [https://archive.ics.uci.edu/dataset/251/gas+sensor+array+drift+dataset+at+different+concentrations  ](https://archive.ics.uci.edu/dataset/270/gas+sensor+array+drift+dataset+at+different+concentrations)
 
 ### Dataset Description
 The dataset contains sensor responses from a gas sensor array exposed to different gas types and concentration levels. Data is collected across multiple batches over time, where each batch corresponds to a different acquisition period. This structure makes the dataset suitable for studying temporal drift.
